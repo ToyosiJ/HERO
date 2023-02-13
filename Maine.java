@@ -14,6 +14,7 @@ public class Maine{
         System.out.println("Hello World!");
         System.out.println("Hello World!");
         System.out.println (x:"Hej");
-        System.out.println (x:"Hej");
+        System.out.println (x:"Hhehhhhhhhhhh");
+
     }
 }
